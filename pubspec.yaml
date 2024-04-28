@@ -1,7 +1,7 @@
 name: android_wake_lock
 description: "This is a real wakeLock"
-version: 1.0.4
-homepage:
+version: 1.0.5
+homepage: https://github.com/ImanGhasemiArani/flutter_plugin_android_wake_lock
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
